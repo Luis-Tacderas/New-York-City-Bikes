@@ -21,6 +21,7 @@ Average trip duration is the longest for 75+ year olds.
 There are a lot more one-time users on Saturday and Sunday than during the rest of the week. 
 Respectively, considerably fewer subscribers renting bikes over the weekend.
 ### Does user age impact the average bike trip duration?
+Based on scatter plot, user age does not impact the bike trip duration.
 
 
 ## Cool Techniques
