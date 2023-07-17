@@ -2,7 +2,7 @@
 # New-York-City-Bikes
 
 # Summary
-Python version of Career Foundry;s short course for Data Analytics. Also contains my Google Sheet solution using pivot table.
+Python version of Career Foundry's short course for Data Analytics using Google Sheets. 
 
 
 ## Challenges
@@ -25,6 +25,9 @@ Respectively, considerably fewer subscribers renting bikes over the weekend.
 
 ## Cool Techniques
 Pivot Table
+Data Cleaning
+Descriptive Statistics
+Data Visualization
 
 ## What else I might have done 
 Convert solution using python.
