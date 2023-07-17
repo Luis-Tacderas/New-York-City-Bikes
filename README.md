@@ -25,8 +25,11 @@ Respectively, considerably fewer subscribers renting bikes over the weekend.
 
 ## Cool Techniques
 Pivot Table
+
 Data Cleaning
+
 Descriptive Statistics
+
 Data Visualization
 
 ## What else I might have done 
