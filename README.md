@@ -20,6 +20,7 @@ Average trip duration is the longest for 75+ year olds.
 ### ​How does bike rental vary across the two user groups (one-time users vs subscribers) on different days of the week? 
 There are a lot more one-time users on Saturday and Sunday than during the rest of the week. 
 Respectively, considerably fewer subscribers renting bikes over the weekend.
+### Does user age impact the average bike trip duration?
 
 
 ## Cool Techniques
